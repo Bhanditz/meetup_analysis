@@ -1,0 +1,7 @@
+delhi
+https://api.meetup.com/2/groups?&sign=true&photo-host=public&topic=data-science&radius=50.0&fields=next_event,primary_topic,sponsors&country=IN&city=delhi&key=3c2f404715287713157b6b747e507969
+Total Group: 
+16
+[4.59, 5, 0, 5, 0, 5, 0, 5, 4.34, 5, 4, 0, 0, 5, 0, 0]
+[u'Data Science Delhi', u'Big Data Group - Delhi/NCR', u'Delhi Apache Spark EigenAnalytics Meetup', u'New Delhi Cassandra Users  - by DataStax -', u'Artificial Intelligence and Data Analytics Group(AIDAG)', u'Big Data Hadoop Hackathon', u'Delhi R Data Analytics Meetup', u'Predictive Business Analytics with R - New Delhi', u'DataMeet Delhi', u'Gurgaon DataCrux Meetups', u'Analytics.Club Delhi', u'Noida Big Data Meetup', u'Delhi NCR Apache Spark Meetup', u'Pentaho User Group Noida', u'Digital India', u'Delhi GraphLab Users']
+[819, 233, 69, 400, 54, 159, 141, 1016, 985, 33, 947, 120, 838, 30, 95, 57]

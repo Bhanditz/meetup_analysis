@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+{% block content %}
+    <h1>Say something</h1>
+    <div class="container">
+  <div class="jumbotron">
+    <h1>Bootstrap Tutorial</h1> 
+    <p>Bootstrap is the most popular HTML, CSS, and JS framework for developing
+    responsive, mobile-first projects on the web.</p> 
+  </div>
+  <p>This is some text.</p> 
+  <p>This is another text.</p> 
+</div>
+    <form method="post" action="{{ url_for('result') }}">
+        <p><label>Country:</label> <input type="text" name="Country" required></p>
+        <p><label>City:</label> <input type="text" name="City" required></p>
+        <p><label>Topic:</label> <input type="text" name="Topic" required></p>
+        <p><button type="submit">Send</button></p>
+    </form>
+{% endblock %}

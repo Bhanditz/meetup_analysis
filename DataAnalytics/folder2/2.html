@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>MSAN 622 Information Visualization</title>
+  <title>Homework-4</title>
+
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/bootstrap-theme.min.css" rel="stylesheet">
+
+ <style type="text/css">
+    .myheader {
+        font-size: 30px;
+    }
+</style>
+</head>
+
+<body> 
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle Navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#"><h5>MSAN 622</h5></a>
+        </div>
+
+        <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li><a href="http://rashmids.github.io/InformationVisualization/"><h5>Home</h5></a></li>
+                <li><a href="/InformationVisualization/#project"><h5>Project</h5></a></li>
+                <!-- <li><a href="/InformationVisualization/#participation">Participation</a></li> -->
+            </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="/InformationVisualization/#about"><h5>About</h5></a></li>
+                <li><a href="/InformationVisualization/#contact"><h5>Contact</h5></a></li>
+            </ul>
+        </div><!--/.nav-collapse -->
+    </div>
+</nav>
+
+<div class="jumbotron">
+    <div class="container">
+        <h2 style="text-align: center">Homework 4 : Dashboard in d3</h2>
+        <h4 style = "text-align: center"> Rashmi Malani<h4>
+    </div>
+</div>  
+
+  <!-- Import d3 -->
+<script src="http://d3js.org/d3.v3.min.js"></script>
+
+
+<style>
+body {
+    background-color: WhiteSmoke;
+    margin: 8px;
+    font: 14px sans-serif;
+}
+
+div#block {
+    max-width: 950px;
+}
+
+svg {
+    background-color: white;
+    margin: 1px;
+    float: left;
+}
+
+
+svg#two .bar {
+  fill: steelblue;
+}
+
+svg#two .bar:hover {
+  fill: brown;
+}
+
+
+svg#two .axis {
+  font: 10px sans-serif;
+}
+
+svg#two .axis path,
+svg#two .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+svg#two .x.axis path {
+  display: none;
+}
+
+
+
+svg#one .axis path,
+svg#one .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+svg#one .dot {
+fill : steelblue;
+fill-opacity: .7;
+stroke: none;
+}
+
+svg#three .axis path,
+svg#three .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+svg#three .x.axis path {
+  display: none;
+}
+
+svg#three .line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+</style>
+
+</head>
+
+<body>
+<!-- placeholder SVGs //-->
+
+<h2 class="Dashboard_in_tab" style="text-align: left">Dashboard in Tableau</h2>
+
+<div>
+<script type='text/javascript' src='https://public.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 982px; height: 742px;'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;HW&#47;HW4_11&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='982' height='742' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='HW4_11&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;HW&#47;HW4_11&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='showVizHome' value='no' /><param name='showTabs' value='y' /><param name='bootstrapWhenNotified' value='true' /></object></div>
+
+</div>
+
+<br></br>
+<br></br>
+<br></br>
+<h2 class="Dashboard_in_d3" style="text-align: left">Dashboard in d3</h2>
+
+
+<div id="block">
+<svg id="three" width="100" height="100"></svg>
+<svg id="two" class="small" width="100" height="100"></svg>
+<svg id="one" class="small" width="100" height="100"></svg>
+</div>
+
+
+<script>
+
+var color = d3.scale.category20c();
+
+// select SVG by ID
+d3.select("svg#three")
+    .attr("width", 700)
+    .attr("height", 484);
+
+// select SVGs by Class
+d3.selectAll("svg.small")
+    .attr("width", 240)
+    .attr("height", 240);
+
+
+d3.csv("movies.csv", function(error, data) {
+     if(error) throw err
+	  data = d3.nest()
+	    .rollup(function(values){
+	      var counts = [], keys = ['Action', 'Drama','Animation','Comedy','Doc','Romance','Short']
+	      keys.forEach(function(key){
+	      	counts.push({name:key, value:d3.sum(values, function(d){ return d[key] })})
+	      })
+	      return counts
+	    })
+    .entries(data)
+
+    // console.log(data)
+
+    drawBar(data, "two");
+    
+function drawBar(data, id) {
+	console.log(data)
+	var margin = {top: 20, right: 20, bottom: 60, left: 40},
+    width = 240 - margin.left - margin.right,
+    height = 240 - margin.top - margin.bottom;
+
+	var x = d3.scale.ordinal()
+			.rangeRoundBands([0,width], .1);
+       // .range(colorbrewer.RdBu[9]);
+
+	var y = d3.scale.linear()
+			.range([height,0]);
+
+	// console.log(y)
+
+	var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+     // .tickValues(data.map(function(d) { return d.name; }))
+
+    var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("left")
+    .tickFormat(d3.format(",.2s"));
+    // .tickFormat(d3.format(',.f'));
+
+    var svg = d3.select("svg#two").attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  	.append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    x.domain(data.map(function(d) { return d.name; }));
+  	y.domain([0, d3.max(data, function(d) { return d.value; })]);
+
+
+    svg.append("g")
+      .attr("class", "axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis)
+      .selectAll("text")  
+            .style("text-anchor", "end")
+            .attr("dx", "-.8em")
+            .attr("dy", ".15em")
+            .attr("transform", function(d) {
+                return "rotate(-65)" 
+                });
+      
+
+     svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxis)
+    .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 5)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .text("count");
+
+ 
+  svg.selectAll(".bar")
+      .data(data)
+    .enter().append("rect")
+      .attr("class", "bar")
+      .attr("x", function(d) { return x(d.name); })
+      .attr("width", x.rangeBand())
+      .attr("y", function(d) { return y(d.value); })
+      .attr("height", function(d) { return height - y(d.value); });
+      // .text(function(d) { return d.value; });
+
+};
+});
+
+// scatter plot
+
+d3.csv("movies.csv", function(error, data){
+	console.log("second")
+	 // if(error) throw err
+
+	 data.forEach(function(d) {
+    d.ratings = +d.rating;
+    d["budget"] = +d["budget"];
+  });
+
+	 // console.log(data)
+
+	 drawScatter(data, "one")
+
+function drawScatter(data, id){
+	console.log(data)
+	console.log("in function")
+
+	var margin = {top: 20, right: 20, bottom: 20, left: 40},
+    width = 240 - margin.left - margin.right,
+    height = 240 - margin.top - margin.bottom;
+
+    var xValue = function(d) { return d["budget"];}, // data -> value
+    xScale = d3.scale.linear().range([0, width]), // value -> display
+    
+    xMap = function(d) { return xScale(xValue(d));}, // data -> display
+    xAxis = d3.svg.axis().scale(xScale).orient("bottom").ticks(5)
+    .tickFormat(d3.format(",.1s"));
+
+// setup y
+	var yValue = function(d) { return d.ratings;}, // data -> value
+    yScale = d3.scale.linear().range([height, 0]), // value -> display
+    
+    yMap = function(d) { return yScale(yValue(d));}, // data -> display
+    yAxis = d3.svg.axis().scale(yScale).orient("left");
+
+
+    var svg = d3.select("svg#one").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  	.append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    xScale.domain([d3.min(data, xValue)-1, d3.max(data, xValue)+1]);
+    yScale.domain([d3.min(data, yValue)-1, d3.max(data, yValue)+1]);
+
+
+    svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis)
+    .append("text")
+      .attr("class", "label")
+      .attr("x", width)
+      .attr("y", -6)
+      .style("text-anchor", "end")
+      .text("Budget");
+
+    svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxis)
+    .append("text")
+      .attr("class", "label")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 6)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .text("Ratings");
+
+    // draw dots
+  svg.selectAll(".dot")
+      .data(data)
+    .enter().append("circle")
+      .attr("class", "dot")
+      .attr("r", 3.5)
+      .attr("cx", xMap)
+      .attr("cy", yMap)
+      
+	};
+
+});
+	
+// multi line chart
+
+d3.csv("movies for_multi.csv",function(error,data){
+  color.domain(d3.keys(data[0]).filter(function(key) { return key !== "year"; }));
+  var parseDate = d3.time.format("%Y").parse;
+  data.forEach(function(d) {
+    d.date = parseDate(d.year);
+  });
+
+  var cities = color.domain().map(function(name) {
+    return {
+      name: name,
+      values: data.map(function(d) {
+        return {date: d.date, temperature: +d[name]};
+      })
+    };
+  });
+ console.log("third")
+console.log(cities)
+multiline(cities,"three")
+
+function multiline(cities,id){
+  var margin = {top: 20, right: 80, bottom: 30, left: 50},
+    width = 700 - margin.left - margin.right,
+    height = 484 - margin.top - margin.bottom;
+
+
+var x = d3.time.scale()
+    .range([0, width]);
+
+var y = d3.scale.linear()
+    .range([height, 0]);
+
+var color = d3.scale.category20c();
+
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+
+var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("left");
+
+var line = d3.svg.line()
+    .interpolate("basis")
+    .x(function(d) { return x(d.date); })
+    .y(function(d) { return y(d.temperature); });
+
+var svg = d3.select("svg#three").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+
+  x.domain(d3.extent(data, function(d) { return d.date; }));
+
+  y.domain([
+    d3.min(cities, function(c) { return d3.min(c.values, function(v) { return v.temperature; }); }),
+    d3.max(cities, function(c) { return d3.max(c.values, function(v) { return v.temperature; }); })
+  ]);
+
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis);
+
+  svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxis)
+    .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 6)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .text("Number of movies");
+
+  var city = svg.selectAll(".city")
+      .data(cities)
+    .enter().append("g")
+      .attr("class", "city");
+
+  city.append("path")
+      .attr("class", "line")
+      .attr("d", function(d) { return line(d.values); })
+      .style("stroke", function(d) { return color(d.name); });
+
+   // draw legend
+      var legend = svg.selectAll(".legend")
+          .data(color.domain())
+        .enter().append("g")
+          .attr("class", "legend")
+          .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+
+      // draw legend colored rectangles
+      legend.append("rect")
+          .attr("x", width - 460)
+          .attr("width", 18)
+          .attr("height", 18)
+          .style("fill", color);
+
+      // draw legend text
+      legend.append("text")
+          .attr("x", width - 470)
+          .attr("y", 9)
+          .attr("dy", ".35em")
+          .style("text-anchor", "end")
+          .text(function(d) { return d;})
+
+}
+
+
+})
+
+</script>
+
+
+<br></br>
+<br></br>
+
+<div class = "container">
+<ul style="list-style-type:none">
+<li "style-type: none"><a href="https://raw.githubusercontent.com/RashmiDS/InformationVisualization/gh-pages/Homework4.html">Code</a></li>
+</ul>
+</div>
+
+
+<div class="container"> 
+<h3>Implementation Details</h3>
+
+  <p style ="font-size:16px"></p>
+  <ul>
+    <li> I have dashboard in Tableau Public with interactivity amongst the SVGs. I have brushing, tooltip and filtering in the dashboard.</li>
+    <li> In my d3 dashboard, I have a multiseries chart of sum of number of movies in each year of all the genres..</li>
+    <li> I have a scatter plot of Budget Vs Rating. </li>
+    <li> I also have a bar chart of genres and the count of movies in last 100 years.</li>
+  </ul>
+  
+<h3>Discussion</h3>
+
+  <p> I have two different csv files for the same movies data. I removed NAs and used the file to make bar chart and scatter plot.
+    For multi series chart, I grouped by year to obtain sum of different genres in postgreSQL.</p>
+</div>
+</body>
+</html>
+

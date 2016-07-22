@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+{% block content %}
+    <h1>{{ topic }} in : {{ city}}</h1>
+    
+    {% for i in result %}
+    <div><p>{{ i.name}} Score: <b>{{ i.score }}</b></p>
+    	{{i.description}}</div>
+    {% endfor %}
+
+    <a href="{{ url_for('home') }}">Say something else</a>
+{% endblock %}

@@ -1,0 +1,949 @@
+Topic,2010,2011,2012,2013,2014,2015,2016
+Google Polymer,0,0,1,1,1,1,1
+NoSQL,0,0,2,8,14,18,20
+Active Learning,0,0,0,0,1,1,1
+E-Business Owners,0,1,1,1,3,3,3
+Freelance,0,0,0,0,1,1,1
+Mobile Technology,0,0,2,6,20,27,31
+Rails,0,0,0,0,0,1,1
+Home DIY,0,0,0,0,1,1,1
+Crowdsourcing,0,0,0,0,0,1,1
+Office365,0,0,0,0,1,1,1
+Stream Processing,0,0,0,0,0,0,2
+Travel Blogging,0,0,0,0,0,1,1
+PMP Certification,0,0,0,0,1,1,1
+Hacking,0,0,0,1,3,3,4
+Software Best Practises,0,0,0,0,1,1,1
+Personal Development,0,0,0,0,2,2,2
+Kubernetes,0,0,0,0,0,2,2
+Open Data,0,0,0,1,1,1,1
+Selenium Software,0,0,0,0,1,1,1
+Liferay Integration,0,0,0,0,1,1,1
+Entrepreneurship,0,1,2,4,12,17,17
+Apache Pig,0,0,1,1,1,1,1
+eLearning,0,0,0,0,1,1,1
+Real-Time Internet,0,0,0,0,0,1,1
+Apache,0,0,0,2,2,4,4
+Microstrategy,0,0,0,0,1,1,1
+Technology Startups,0,0,0,4,8,17,19
+Nature Photography,0,0,0,0,0,1,1
+PaaS: Platform as a Service,0,0,0,0,0,0,1
+How to implement SAP HANA?,0,0,0,0,1,2,2
+Ethical Hacker,0,0,0,0,2,2,2
+computer networking,0,0,0,0,1,1,1
+Apple iPhone and iPad,0,0,0,0,1,1,1
+Graphs,0,0,0,0,0,1,1
+Social Media Marketing,1,3,3,3,6,7,7
+Digital Media,0,0,0,0,1,1,1
+Project Management Professional Certification,0,0,0,0,1,1,1
+BIG DATA-HADOOP,0,0,0,0,1,1,1
+Personal robots,0,0,0,0,1,1,1
+HBase,0,0,1,2,3,4,4
+Electronics Technology,0,0,0,0,0,1,1
+Akka,0,0,0,0,1,1,1
+HDFS,0,0,1,1,1,1,1
+Real Life uses of AWS and cloud servers,0,0,0,1,1,2,2
+Flash Builder,0,0,0,0,1,1,1
+Social Equality,0,0,0,0,1,1,1
+SharePoint Technologies,0,0,0,0,1,1,1
+Semantic Technologies,0,0,0,2,2,2,2
+Scrum Practices,0,0,0,0,0,0,1
+Go,0,0,0,0,1,1,1
+Web Programming,0,0,0,0,1,1,1
+Salesforce.com Integration,0,0,0,0,2,2,2
+PMP Application,0,0,0,0,1,1,1
+Continuous Deployment,0,0,0,0,1,1,1
+Backbone.js,0,0,0,0,1,2,2
+Game Design,0,0,0,0,1,1,1
+PMP Training,0,0,0,0,1,1,1
+Scrum in real world,0,0,0,0,0,1,2
+Innovation,0,0,0,0,2,2,3
+Tableau,0,0,0,0,1,1,1
+Joomla! Template Design,0,0,0,0,1,1,1
+Ruby on Rails Amazon Web Services,0,0,0,0,0,1,1
+F# Programming,0,0,0,0,0,1,1
+Vertica,0,0,0,1,1,1,1
+Master Data Management,0,0,0,0,1,1,1
+Software Quality,0,0,0,0,2,3,3
+Collaboration between Creative Minds,0,0,0,0,1,1,1
+Salesforce.com Developers,0,0,1,1,3,3,3
+SQL Server,0,0,0,0,2,2,2
+Seed Funding,0,0,0,0,0,1,1
+SAP Business One,0,0,0,0,1,1,1
+Server Side Javascript,0,0,0,0,2,2,2
+Drupal Modules,0,0,0,0,1,1,1
+HTML,0,0,0,0,1,2,2
+Social Enterprise,0,0,0,0,1,1,1
+Traditional Animation,0,0,0,0,1,1,1
+Cofounders,0,0,0,0,0,1,1
+Study Group,0,0,0,0,1,1,2
+Artificial Intelligence Programming,0,0,0,0,1,1,1
+Agile Leadership,0,0,0,0,1,2,4
+Google Analytics,0,0,0,0,1,1,1
+Film and Video Production,0,0,0,0,1,2,2
+NFV,0,0,0,0,0,1,1
+Smart Sensors,0,0,0,0,1,2,4
+Firmware Development,0,0,0,0,1,1,1
+Azure,0,0,0,0,1,1,1
+Startup Financing,0,0,0,0,0,1,1
+Social Networking,0,2,2,2,5,7,7
+Rust,0,0,0,0,1,1,1
+Product & Service Innovation,0,0,0,0,1,1,1
+Customer Relationship Management,0,0,0,0,0,1,1
+Foodie,0,0,0,0,1,1,1
+Fundraising,1,1,1,1,1,1,1
+PMI Standards,0,0,0,0,1,1,1
+3D Modeling,0,0,0,0,2,2,3
+Cloud Computing,0,0,3,8,23,35,38
+Amateur and Ham Radio,0,0,0,0,1,1,1
+Chart Analysis,0,0,0,0,1,1,1
+New Product Development: Software & Tech,0,0,0,0,0,1,2
+Learn Wordpress,0,0,0,0,1,1,1
+ClickBank,0,0,0,1,1,1,1
+Technology,1,1,1,2,10,11,11
+Why Use SAP HANA?,0,0,0,0,1,2,2
+Behaviour Driven Testing,0,0,0,0,0,1,1
+VMUG,0,0,0,0,0,1,1
+VHDL,0,0,0,0,1,1,1
+Apache Hadoop,0,0,0,0,1,2,2
+Product Marketing,0,0,0,0,0,0,1
+CMS (Content Management Systems),0,2,2,2,11,13,15
+Erlang Workshops,0,0,0,0,1,1,1
+coursera.org,0,0,0,0,0,0,1
+Education Entrepreneurs,0,0,0,0,1,1,1
+Google Chrome,0,0,0,0,1,1,1
+Big Data Ingestion,0,0,0,0,0,0,1
+Web Security,0,0,0,0,2,2,2
+UAV,0,0,0,0,0,1,1
+Version Control,0,0,0,0,1,1,1
+Big Data Developers,0,0,0,0,3,4,4
+VMware,0,0,0,0,0,1,1
+Marketing,0,0,0,0,1,1,1
+Public Cloud,0,0,0,0,1,1,1
+Mechanical Engineering,0,0,0,0,1,1,1
+Agile Portfolio Management,0,0,0,0,1,1,1
+Agile Coaching,0,0,0,0,2,4,6
+ReactJS,0,0,0,0,0,0,1
+Adobe Creative Suite,0,0,0,0,1,1,1
+Information Management,0,0,0,0,1,1,1
+Computer Vision,0,0,0,0,1,1,1
+User Interface Design,0,0,0,0,1,2,2
+Quality Assurance,0,0,0,0,0,1,1
+AngularJS,0,0,1,2,5,6,8
+Intellectual Discussion,0,0,0,0,0,1,1
+JavaScript Libraries,0,0,0,1,5,6,8
+Mobile App Marketing,0,0,0,0,0,1,1
+Solr,0,0,0,1,1,1,1
+Crowdfunding,0,0,0,0,0,1,1
+iPhone App Marketing,0,0,0,0,0,1,1
+Concurrent Programming,0,0,0,0,1,2,3
+Community Service,1,1,1,1,1,1,1
+Selenium,0,0,0,0,2,3,3
+Arduino Uno,0,0,0,0,0,0,1
+Hashtables,0,0,0,0,0,1,1
+Java Server Side,0,0,0,0,1,1,1
+MVC,0,0,0,0,0,1,1
+Smart cities,0,0,0,0,0,0,1
+WordPress SEO,0,0,0,0,4,4,5
+Apple Software,0,0,0,0,1,1,1
+Docker,0,0,0,0,2,4,5
+Create a Blog,0,0,0,0,0,1,1
+Coffee Talk,0,0,0,0,0,1,1
+Benefits of Developing for iPhone Platform,1,1,1,1,1,1,1
+Open Source,1,2,6,12,44,56,64
+Big Data,0,0,1,8,23,31,36
+UX Design,0,0,0,0,3,4,6
+Hardware Hacking and Reverse Engineering,0,0,0,0,1,1,1
+Prototyping,0,0,0,0,1,1,1
+Massively Parallel Processing Databases,0,0,0,1,1,1,1
+Network Virtualization,0,0,0,0,0,1,1
+iPad Game Development,0,0,0,1,1,1,1
+PHP HTML5 Nginx MongoDB Linux,0,0,0,0,1,1,1
+WordPress Websites,0,0,0,0,1,1,2
+Video Game Development,0,0,0,0,1,1,1
+Mobile Marketing Strategies,0,0,0,0,0,1,1
+3D Scanning,0,0,0,0,1,1,1
+Urban Planning,0,0,0,0,0,0,1
+Assist in Creating YouTube Videos,0,0,0,0,0,1,1
+JavaScript,0,0,0,0,14,19,23
+titanium,0,0,0,0,0,1,1
+Big Data for social media,0,0,0,0,2,2,2
+Disaster recovery,0,0,0,0,1,1,1
+Self-Improvement,0,0,0,0,2,2,2
+What is SAP HANA?,0,0,0,0,1,2,2
+Social Media for Social Good,0,0,0,0,1,1,1
+Learning Joomla,0,0,0,0,1,1,1
+Lean Startup,0,0,0,1,3,6,8
+Wearable Technologies,0,0,0,0,1,1,2
+DuckDuckGo,0,0,0,0,0,1,1
+SQL Server 2005,0,0,0,0,1,1,1
+Pig and Hadoop,0,0,0,0,1,1,1
+Software Architecture,0,0,0,0,2,3,3
+SQL Server 2008,0,0,0,0,1,1,1
+Lean Project Management,0,0,0,0,1,2,3
+Google SEO,0,0,0,0,3,3,3
+Spark,0,0,0,1,2,3,3
+AWS design implementation and servicing,0,0,0,1,1,2,2
+Blogging,0,0,0,0,2,4,4
+Web & New Technology,0,0,0,0,2,2,2
+DIY Classes,0,0,0,0,1,1,1
+Agile Transformation,0,0,0,0,1,2,2
+Makerspaces,0,0,0,0,4,4,6
+MySQL Cluster,0,0,0,0,1,2,2
+Information Dashboard,0,0,0,0,2,2,2
+Hive,0,0,0,2,2,2,2
+J2EE,0,0,0,0,1,1,1
+Drone,0,0,0,0,0,1,1
+Day Software,0,0,0,0,1,1,1
+Pricing of iPhone Applications,1,1,1,1,1,1,1
+Fuel Cells,0,0,0,0,1,1,1
+Django,0,0,1,1,3,4,4
+Apple,0,0,0,0,1,1,1
+Test Automation Frameworks,0,0,0,0,1,1,1
+php Women,0,0,0,0,1,1,1
+Complexity Analysis,0,0,0,0,0,1,1
+What's new with BIG DATA?,0,0,0,0,2,2,2
+Machine Learning,0,0,0,4,16,20,21
+Online Marketing,1,3,3,4,11,12,13
+Product Design,0,0,0,0,1,1,3
+WordPress,0,0,0,0,3,4,5
+Linux,1,1,2,3,6,9,9
+Android App Marketing,1,1,1,1,2,2,2
+osgi,0,0,0,0,0,1,1
+Mobile App,0,0,0,0,0,1,1
+Learn SEO Basics,0,0,0,0,2,2,2
+Outbound Training,0,0,0,0,1,1,1
+Liferay Training,0,0,0,0,1,1,1
+Free World Dialup,1,1,1,1,1,1,1
+IBM Bluemix,0,0,0,0,0,0,1
+Liferay & LDAP & SSO,0,0,0,0,1,1,1
+beginner html css,0,0,0,0,0,0,1
+SAP Business Intelligence,0,0,0,0,2,3,3
+Database Design & Development,0,0,0,0,0,1,1
+Cloud Foundry,0,0,0,0,0,0,1
+Oracle Big Data Appliance,0,0,0,0,0,1,1
+Testing Web Site Performance,0,0,0,0,1,1,1
+Professional Networking,0,0,0,0,2,4,5
+Actionscript,0,0,0,0,1,1,1
+Freelance Content Writers,1,1,1,1,1,1,1
+Oracle APEX Development,0,0,0,0,1,1,2
+YouTube Marketing,0,0,0,0,0,1,1
+WordPress Users,0,0,0,0,1,1,2
+Lectures,0,0,0,0,1,1,1
+RAC,0,0,0,0,1,1,1
+Google Maps,0,0,0,0,1,1,1
+MicroStrategy Best Practices,0,0,0,0,1,1,1
+SharePoint Architecture,0,0,0,0,1,1,1
+R Users Group,0,0,0,1,2,2,2
+eCommerce Marketing,0,0,0,0,1,1,1
+Oracle PL/SQL Development,0,0,0,0,1,1,2
+Oracle Data Integrator,0,0,0,0,1,1,2
+App developers,0,0,0,0,1,1,1
+Python Web Development,0,0,0,0,4,4,4
+Rich Internet Applications,0,0,0,0,3,3,4
+High Scalability Computing,0,0,1,3,5,8,9
+Usability,0,0,0,0,2,2,3
+IT Recruiter,0,0,0,0,0,1,1
+SAP Professional,0,0,0,0,2,3,4
+Software Engineers,0,0,0,0,0,1,1
+Application Programming Interface,0,0,0,0,1,1,1
+Ambassador,0,0,0,0,1,1,1
+FPGA,0,0,0,0,1,1,1
+White Hat Hacking,0,0,0,0,1,1,1
+raspberrypi,0,0,0,0,0,1,1
+Agile programming and Python,0,0,1,1,1,1,1
+Experience Design,0,0,0,0,1,1,1
+Web Content Management,0,0,0,0,0,1,1
+Startup Businesses,0,0,0,2,6,12,12
+mobile developers,0,0,0,0,1,1,1
+All Forms of JavaScript,0,0,0,1,2,2,2
+iPhone,1,1,1,3,4,4,4
+Embedded Systems Programming,0,0,0,0,1,1,1
+Telecommunications Pros,1,1,1,1,2,2,2
+Drupal Design & Development,0,0,0,0,1,1,1
+SAP BW,0,0,0,0,1,1,1
+Free Software Foundation,1,1,1,1,1,1,1
+web application development,0,0,0,0,1,2,2
+Video and computer animation,0,0,0,0,1,1,1
+DBA,0,0,0,0,1,1,1
+Social Recruitment,0,0,0,0,0,1,1
+Smart Home,0,0,0,0,1,1,2
+Drupal Mastering,0,0,0,0,1,1,1
+Communication Skills,0,0,0,0,1,1,1
+Technical Analysis,0,0,0,0,0,1,1
+Console Gaming,0,0,0,0,1,1,1
+How to create a great YouTube video,0,0,0,0,0,1,1
+Zend Framework,0,0,0,0,1,1,1
+Business Management,0,0,0,0,1,1,1
+Interaction Design,0,0,0,0,2,3,5
+IT Management,0,0,0,0,1,1,1
+Building Blackberry apps with Titanium,0,0,0,0,0,1,1
+PostgreSQL and Open Source Projects,0,0,0,1,1,2,2
+Project Management Coaching,0,0,0,0,1,1,1
+Online/ Internet Strategies for Any Home Biz,0,0,0,0,0,1,1
+Meteor,0,0,1,1,2,2,3
+Software QA and Testing,0,0,0,0,4,5,5
+Recruiting,0,0,0,0,0,1,1
+EMS electronic manufacturing services,0,0,0,0,1,1,1
+Apache Spark,0,0,1,1,4,6,8
+Independent Game Development,0,0,0,0,1,1,1
+Mobile Game Development,0,0,0,0,1,1,1
+Business Intelligence,0,0,0,1,5,6,6
+Cloud Security Standards,0,0,0,0,1,1,1
+Building Android apps with Appcelerator Titanium,0,0,0,0,0,1,1
+Natural Language Processing,0,0,0,2,2,2,2
+Cloud Computing Security,0,0,0,0,1,1,1
+Xcode Users,0,0,0,1,1,1,1
+Building private cloud with OpenStack,0,0,0,1,2,2,2
+JQuery,0,0,1,2,7,8,8
+Hibernate,0,0,0,0,1,1,1
+Google Developer Group,0,0,0,0,1,1,1
+Postgres,0,0,0,1,1,2,2
+Data Warehouses,0,0,0,1,1,1,1
+Play Framework,0,0,0,0,1,1,1
+HTML and CSS,0,0,0,0,0,1,2
+Magento Developers,0,1,1,1,1,1,1
+Apex Development,0,0,0,0,2,2,2
+Liferay Support,0,0,0,0,1,1,1
+High Performance Computing,0,0,0,0,1,1,1
+Android Development Training,0,0,0,0,1,2,2
+Service-Oriented Architecture,0,0,0,0,1,1,1
+Blogging for Business,0,0,0,0,0,1,1
+computer hardware,0,0,0,0,1,1,1
+Microsoft Access,0,0,0,0,1,1,1
+Google Apps,0,0,0,0,0,0,1
+Leveraging Big Data,0,0,0,0,3,3,3
+Scrum coaching,0,0,0,0,0,0,1
+Enterprise Resource Planning,0,0,0,0,2,2,2
+Home Automation,0,0,0,0,0,0,2
+Business Innovation,0,0,0,0,1,1,1
+Founder Institute,0,0,0,0,1,1,1
+oracle database administrator,0,0,0,0,1,1,1
+Architecture,0,0,0,0,1,1,1
+Computer Security,0,0,0,0,1,1,1
+Oracle Application Business Solutions,0,0,0,0,1,1,2
+Nonprofit,1,1,1,1,1,1,1
+Animation and visual effects,0,0,0,0,1,1,1
+CSS,0,0,0,0,1,1,1
+Apache Apex,0,0,0,0,0,0,2
+Software Development,0,0,5,8,39,53,58
+Wordpress Themes,0,0,0,0,2,3,4
+Education,0,0,0,0,1,1,1
+Learning and Development,0,0,0,0,1,1,1
+ColdFusion,0,0,0,1,1,1,1
+Functional Programming,0,0,0,1,5,6,7
+Online Education,0,0,0,0,1,1,2
+Smart City,0,0,0,0,0,0,1
+Software Testing,0,0,0,0,3,4,4
+Sustainable frameworks in JavaScript,0,0,0,0,1,1,1
+Using MongoDB in the cloud,0,0,0,1,1,1,1
+Coaching Agile Teams,0,0,0,0,1,1,1
+New Technology,1,1,2,7,26,37,43
+Mobile User Experience,0,1,1,1,2,6,7
+Drupal Designers,0,0,0,0,1,1,1
+Portals & Collaboration,0,0,0,0,1,1,1
+Amazon Web Services,0,0,0,1,1,4,4
+SAP Transportation Management,0,0,0,0,1,1,1
+Database Professionals,0,0,0,2,6,8,9
+Ruby on Rails Scalability,0,0,0,0,0,1,1
+Mozilla,0,0,0,0,1,1,1
+Arduino,0,0,0,0,6,8,11
+Tinkering,0,0,0,0,1,1,1
+3D Artists,0,0,0,0,1,1,1
+M2M Devices,0,0,0,0,1,1,1
+Web Standards,0,0,0,0,2,2,2
+Trainers,0,0,0,0,1,1,1
+BigData,0,0,0,0,2,2,2
+ASP.NET MVC,0,0,0,0,1,1,1
+Social Innovation,0,0,0,0,1,1,1
+2D Animation,0,0,0,0,1,1,1
+co-founder,0,0,0,0,0,1,1
+columnar databases,0,0,0,1,1,1,1
+Agile Mindset,0,0,0,0,1,1,1
+CFML,0,0,0,1,1,1,1
+WordPress Small Business Web Sites,0,0,0,0,1,1,2
+APIs,0,0,0,0,1,1,1
+Web Design,0,1,3,4,17,19,21
+Ember JS,0,0,0,0,1,1,1
+Android Enthusiasts,1,1,1,1,2,3,4
+Technical Recruiting,0,0,0,0,0,1,1
+Web Services,0,0,0,0,1,1,2
+Database Development,0,0,0,2,8,11,12
+Adobe Experience Manager,0,0,0,0,0,1,1
+ITIL ITSM,0,0,0,0,1,1,1
+DIY (Do It Yourself),0,0,0,0,5,8,9
+WordPress Developers,0,0,0,0,1,1,1
+Salesforce.com CRM,0,0,0,0,1,1,1
+Internet Online & Web Technology,0,0,0,0,1,1,1
+Six Sigma,0,0,0,0,1,1,1
+Developing Mobile Apps,0,0,0,0,0,1,1
+Ruby On Rails,0,0,1,1,2,3,3
+IOT hacking,0,0,0,0,0,1,2
+Building iPhone apps with Appcelerator Titanium,0,0,0,0,0,1,1
+Supply Chain Management,0,0,0,0,1,1,1
+Information Security,0,0,0,0,1,1,1
+youtubers,0,0,0,0,0,1,1
+Computer programming,0,1,4,9,37,46,47
+EC2,0,0,0,1,1,1,1
+Landscape Photography,0,0,0,0,0,1,1
+Oracle,0,0,1,1,4,4,5
+Videoblogging,0,0,0,0,0,1,1
+Drupal Users,0,1,1,1,2,2,2
+Strengthening Drupal,0,0,0,0,1,1,1
+Consulting,0,0,0,0,1,1,1
+Parallel Programming,0,0,0,0,1,1,1
+Affiliate Marketing,1,1,1,2,2,2,2
+Tableau Software,0,0,0,0,1,1,1
+MongoDB,0,0,1,4,6,7,8
+Statistical Computing,0,0,0,1,1,1,1
+Joomla users and developers,0,0,0,0,1,1,1
+Adobe Acrobat,0,0,0,0,1,1,1
+Agile Project Management,0,0,1,1,8,11,14
+Objective C,1,1,1,3,3,3,4
+Unix,1,1,1,1,1,1,1
+Excel 2010,0,0,0,0,1,1,1
+appcelerator,0,0,0,0,0,1,1
+beginner web programming,0,0,0,1,1,1,1
+Product Management,0,0,0,0,0,0,1
+User experience design,0,0,0,0,2,3,4
+Digital Innovation,0,0,0,0,0,1,1
+Disability Rights,0,0,0,0,2,2,2
+Community Outreach,1,1,1,1,1,1,1
+Predictive Analytics,0,0,0,3,12,17,20
+Nonprofit Marketing,1,1,1,1,1,1,1
+Knowledge Sharing,0,0,0,0,1,1,1
+Linux User Group,1,1,1,1,1,1,1
+3D Animation,0,0,0,0,2,2,2
+Content Management Systems,0,0,0,0,0,1,1
+Monetizing Blogging,0,0,0,0,0,1,1
+ExpressJs,0,0,1,1,1,1,2
+UI Design,0,0,0,1,3,4,5
+Animation,0,0,0,0,1,1,1
+Non-violent Social Change,0,0,0,0,1,1,1
+iOS Game Development,0,0,0,1,1,1,1
+NLP (Neuro-Linguistic Programming),0,0,0,0,1,1,1
+Internet of Things,0,0,0,0,4,7,12
+Flex,0,0,0,0,1,1,1
+Responsive Web Design,0,0,0,0,1,1,1
+Android Game Development,0,0,0,0,2,2,2
+Solutions for Raising Capital For Start Ups,0,0,0,0,0,1,1
+Windows PowerShell,0,0,0,0,0,1,1
+Jasmine,0,0,0,0,0,1,1
+Android SDK,0,0,0,0,1,1,1
+Test Automation,0,0,0,0,3,4,4
+Web Application,0,0,0,0,3,3,3
+Fashion Design,0,0,0,0,1,1,1
+Binary Search Trees,0,0,0,0,0,1,1
+HTML5 Game Development,0,0,0,0,1,1,1
+Computer Training,0,0,0,0,1,2,2
+Load Testing and Performance,0,0,0,0,0,1,1
+Sorted Arrays,0,0,0,0,0,1,1
+Technical Training,0,0,0,0,0,1,1
+Microsoft Office,0,0,0,0,1,1,1
+Continuous Integration,0,0,0,0,1,1,1
+Entrepreneur Networking,0,0,0,1,2,5,5
+Groovy,0,0,0,0,1,1,1
+GTUG,0,0,0,0,1,1,1
+Train-The-Trainer (T3),0,0,0,0,1,1,1
+QA Professionals,0,0,0,0,0,1,1
+Microsoft Excel,0,0,0,0,2,2,2
+Computers,0,0,0,0,2,3,3
+Sales Training,0,0,0,0,0,1,1
+VoIP and Technology,0,0,0,0,1,1,1
+Advertising,1,1,1,1,1,1,1
+System Administration,0,0,0,0,2,4,4
+Business Intelligence Strategy,0,0,0,0,2,2,2
+Apple Tech,0,0,0,0,1,1,1
+Scrum Development,0,0,0,0,0,0,1
+IaaS (Infrastructure as a Service),0,0,1,2,5,6,6
+Graphic Design,0,2,2,2,3,4,5
+Pay Per Click,1,1,1,1,1,1,1
+Google,0,0,0,0,1,1,1
+Software Craftsmanship,0,0,0,0,1,1,1
+Appcelerator Titanium,0,0,0,0,0,1,1
+Building an Online Business,0,0,0,1,2,2,2
+Hardware Startups,0,0,0,0,1,1,1
+Android App Design,0,0,0,0,1,1,1
+Augmented Reality,0,0,0,0,1,1,1
+Open Source Community,0,0,0,0,1,1,2
+Filmmaking,0,0,0,0,1,1,1
+Microsoft Windows Server,0,0,0,0,1,1,1
+Robotics Competition,0,0,0,0,1,1,1
+Apache Hive,0,0,1,1,1,1,1
+Collaboration,0,0,0,0,1,1,1
+Operating Systems,1,1,1,1,1,1,1
+SEO for Small to Medium Sized Businesses,0,0,0,0,2,2,2
+"Network Marketing, Online Advertising",0,0,0,0,1,1,1
+"Search, Information Retrieval",0,0,0,1,1,1,1
+Salesforce implementation,0,0,0,0,2,2,2
+JavaScript Frameworks,0,0,1,2,10,12,15
+Flash,0,0,0,0,1,1,1
+Hadoop,0,0,1,6,15,18,20
+SEO for Magento,0,1,1,1,1,1,1
+Sencha Ext JS,0,0,0,0,1,1,1
+Salesforce.com Admins,0,0,0,0,2,2,2
+Javascript best practices,0,0,0,1,2,2,2
+MySQL,0,0,0,1,5,7,8
+Tips to Market iPhone Apps,1,1,1,1,1,1,1
+Liferay,0,0,0,0,1,1,1
+R Project for Statistical Computing,0,0,0,1,3,3,3
+programming with html css php mysql,0,0,0,0,0,1,2
+M2M,0,0,0,0,1,1,2
+Adobe AIR,0,0,0,0,1,1,1
+Photography,0,0,0,0,1,2,2
+Quora,0,0,0,0,0,1,1
+AWS,0,0,0,1,1,2,2
+Search Engine Marketing,0,0,0,1,4,4,4
+Growth Hacking,0,0,0,0,0,1,1
+iOS and Android Application Development,0,0,0,0,0,1,1
+Sustainability,0,0,0,0,1,1,1
+Salesforce.com,0,0,1,1,4,4,4
+Leadership,0,0,0,0,0,1,2
+ElasticSearch,0,0,0,1,3,4,4
+Motion Graphics,0,0,0,0,1,1,1
+Elixir,0,0,0,0,0,1,2
+MySQL DBA,0,0,0,0,1,2,2
+SEO for Small Businesses,0,0,0,0,2,2,2
+QA Tools and Practices,0,0,0,0,0,1,1
+Image recognition,0,0,0,1,1,1,1
+MicroStrategy Development,0,0,0,0,1,1,1
+Business Model Innovation,0,0,0,0,1,1,1
+Configuration Management,0,0,0,0,2,4,4
+Artificial Intelligence Machine Learning Robotics,0,0,0,0,1,1,1
+Yarn,0,0,1,1,1,1,1
+Database Integration & Migrations,0,0,0,0,0,1,1
+Testing Tools,0,0,0,0,1,2,2
+IT Professionals,1,1,1,1,5,7,9
+Microsoft Office 365 public cloud-based technology,0,0,0,0,1,1,1
+Microcontrollers,0,0,0,0,3,4,7
+Distributed Systems,0,0,0,0,1,1,2
+Statistical Consulting,0,0,0,1,1,1,1
+Product Development,0,0,0,0,0,0,1
+PHP Framework,0,0,0,0,3,4,4
+Community Organizations,1,1,1,1,1,1,1
+Arduino Netduino and Robotics,0,0,0,0,1,1,1
+Salesforce.com Users,0,0,0,0,1,1,1
+User experience research,0,0,0,0,1,1,1
+E-Commerce,0,1,1,2,2,3,4
+Web API design,0,0,0,0,1,1,1
+Ansible,0,0,0,0,0,1,1
+Magento,0,1,1,1,1,1,1
+Application Development,0,0,0,0,2,3,4
+Erlang Programming,0,0,0,0,1,2,3
+Open source python,0,0,0,0,1,1,1
+PHP,0,2,2,2,8,9,9
+iPad,0,0,0,0,1,1,1
+Venture Capital,0,0,0,0,0,2,2
+Titan,0,0,0,0,1,1,1
+Network Security,0,0,0,0,1,1,1
+exploring science,0,0,0,0,1,1,1
+CRX,0,0,0,0,1,2,2
+Apps,0,0,0,1,1,1,1
+Creative Freelancers,0,0,0,0,1,1,1
+Spreadsheets,0,0,0,0,1,1,1
+Software Design,0,0,0,0,0,1,1
+analytics,0,0,0,0,1,1,1
+Drupal Developers,0,1,1,1,2,2,2
+Salesforce.com Service,0,0,0,0,1,1,1
+Founders,0,0,0,0,0,1,1
+Disruptive technologies,0,0,0,0,1,1,1
+Android,1,1,1,2,4,6,7
+CRM,0,0,0,0,0,1,1
+Social Media,1,1,1,2,4,7,7
+Enterprise Architecture,0,0,0,0,1,1,1
+NetSquared,1,1,1,1,1,1,1
+Scrum,0,0,0,0,3,6,8
+CoffeeScript,0,0,1,1,1,2,2
+Apple Mac,0,0,0,0,1,1,1
+Cityblogging,0,0,0,0,0,1,1
+Scaling Agile,0,0,0,0,1,1,1
+Humanoid Robots,0,0,0,0,1,1,1
+WordPress Training,0,0,0,0,1,1,1
+Data Analytics,0,0,0,7,20,27,31
+Mobile Development,0,1,1,5,19,32,35
+Data Journalism,0,0,0,1,1,1,1
+Apache Lucene and Solr Open Source Search,0,0,0,1,1,1,1
+Leadership Development Training & Self-Empowerment,0,0,0,0,1,1,1
+Liferay Portlet Development,0,0,0,0,1,1,1
+GraphLab,0,0,0,0,0,0,1
+User experience practices,0,0,0,0,1,1,1
+Education & Technology,0,0,0,0,4,9,10
+Nonprofit Technology,1,1,1,1,1,1,1
+Visualforce Development,0,0,0,0,1,1,1
+Data Science using Python,0,0,0,0,0,0,1
+Cloud Networking,0,0,0,0,1,1,1
+Educational Workshops & Conferences,0,0,0,0,1,1,1
+Internet Professionals,1,1,2,2,9,9,12
+Development using PostgreSQL,0,0,0,1,1,2,2
+electronics mechanics engineering design,0,0,0,0,1,1,1
+iPod,0,0,0,0,1,1,1
+MapReduce,0,0,1,5,7,10,11
+Full Stack Development,0,0,0,0,0,0,1
+iPad and iPhone Users,0,0,0,0,1,1,1
+SEM for Magento,0,1,1,1,1,1,1
+Business Startup,0,0,0,0,1,1,1
+Sustainable Cities,0,0,0,0,0,0,1
+Search Engines,0,0,0,1,1,1,1
+small business DIY Inventors startups,0,0,0,0,1,1,1
+Kanban,0,0,0,0,2,4,5
+Project Management Professional,0,0,0,0,1,1,1
+Agile Program Management,0,0,0,0,1,1,1
+Apps for Smart Cities,0,0,0,0,0,0,1
+Cassandra,0,0,1,4,5,5,5
+Ruby on Rails 3,0,0,0,0,0,1,1
+Makers,0,0,0,0,3,3,4
+Professional Development,0,0,0,1,2,3,4
+Information Architecture,0,0,0,0,1,2,3
+Web 2.0 Strategy,0,0,0,0,1,1,1
+Software Product Management,0,0,0,0,0,1,2
+Mobile Product Management,0,0,0,0,0,0,1
+YouTube,0,0,0,0,0,1,1
+Recruiting and Hiring,0,0,0,0,0,1,1
+Android Mobile Applications,0,0,0,0,0,1,1
+Big Data Analytics,0,0,0,4,14,18,21
+Apple/Macintosh technology,0,0,0,0,1,1,1
+Computer Education,0,0,0,0,0,1,1
+Music,0,0,0,0,1,1,1
+SaaS (Software as a Service),0,0,1,2,7,8,8
+Apache Sling,0,0,0,0,0,1,1
+OpenStack,0,0,1,2,4,5,5
+Transformative Social Change,0,0,0,0,1,1,1
+ERP Consulting,0,0,0,0,2,2,2
+C#,0,0,0,0,1,1,1
+SEO Video Marketing,0,0,0,0,1,1,1
+Internet Startups,0,0,0,1,3,6,6
+JSON,0,0,0,1,1,1,1
+Scaled Agile Framework (SAFe),0,0,0,0,1,1,1
+Joomla,0,0,0,0,1,1,1
+Project Management,0,0,0,0,3,4,4
+Database Administrators,0,0,0,0,1,1,1
+Digital Signal Processing,0,0,0,0,1,1,1
+Autonomous Robots,0,0,0,0,1,1,1
+VoIP,0,0,0,0,1,1,1
+MicroStrategy Mobile Applications,0,0,0,0,1,1,1
+Business Intelligence Tools and Technology,0,0,0,0,1,1,1
+Couchbase,0,0,0,0,2,2,2
+cofounderslab,0,0,0,0,0,1,1
+Data Science,0,0,0,3,10,14,16
+Leadership Development,0,0,0,0,2,2,2
+Adobe Dreamweaver,0,0,0,0,1,1,1
+Google Technology User Group,0,0,0,0,1,1,1
+Adobe CQ5,0,0,0,0,0,1,1
+Online Learning,0,0,0,0,0,0,1
+Arduino and Robotics,0,0,0,0,6,6,9
+IPhone IPad IOS developers,0,0,0,1,1,2,3
+Information Technology,0,0,0,1,3,5,7
+Subversion,0,0,0,0,1,1,1
+Social Recruiting,0,0,0,0,0,1,1
+ServiceNow,0,0,0,0,1,1,1
+User Experience,0,0,0,0,3,4,6
+Business Intelligence Best Practices,0,0,0,0,1,1,1
+Test Driven Development,0,0,0,0,2,5,5
+Help Desk,0,0,0,0,1,1,1
+Human-Computer Interaction,0,0,0,0,1,1,1
+Service Catalogue Management,0,0,0,0,1,1,1
+Small Business,0,2,2,2,2,4,4
+Sitecore,0,0,0,0,0,1,1
+Internet e-Business & Startups,0,0,0,0,1,1,1
+Agile Testing,0,0,0,0,2,3,3
+Ember Data,0,0,0,0,1,1,1
+Linked Data,0,0,0,1,1,1,1
+Print Design,0,0,0,0,1,1,1
+Redis,0,0,0,0,1,1,1
+Web technology and development,0,0,0,0,1,1,1
+Apache Cordova,0,0,0,0,0,0,1
+Oracle Weblogic,0,0,0,0,0,0,1
+oracle developer/programmer,0,0,0,0,0,0,1
+Mobile Marketing,0,0,0,0,0,2,2
+Drupal community,0,0,0,0,1,1,1
+Artificial Intelligence Applications,0,0,0,0,1,1,1
+Apache Kafka,0,0,0,0,1,1,3
+Liferay EE,0,0,0,0,1,1,1
+Macintosh Computer Users,0,0,0,0,1,1,1
+Python,0,0,1,2,7,9,10
+couchdb,0,0,0,1,1,1,1
+Soft Skills training,0,0,0,0,0,1,1
+Conference Planning,0,0,0,0,1,1,1
+Containers,0,0,0,0,0,2,2
+Open Source Content Management,0,0,0,0,1,1,1
+Sensor Fusion,0,0,0,0,0,0,1
+CoreOS,0,0,0,0,0,1,1
+Business Process Management,0,0,0,0,1,1,1
+nodeJS,0,0,1,1,6,9,11
+iOS,0,0,0,2,2,4,5
+Seed Capital,0,0,0,0,0,1,1
+Hobby Electronics,0,0,0,0,1,2,2
+IT,0,0,0,0,2,2,2
+Asterisk PBX,1,1,1,1,2,2,2
+SEO (Search Engine Optimization),1,3,3,4,9,13,13
+HTML5,0,0,0,1,10,13,13
+student,0,0,0,0,1,1,1
+Video Game Developers,0,0,0,0,1,1,1
+ColdFusion Frameworks,0,0,0,1,1,1,1
+Product Lifecycle Management,0,0,0,0,0,0,1
+Microsoft Technology,0,0,0,0,3,3,3
+Ionic Framework,0,0,0,0,0,0,1
+High Availability and Disaster Recovery,0,0,0,0,1,1,1
+Software Engineering,0,0,0,0,3,5,5
+Programming Languages,0,0,0,0,14,16,16
+Team Building,0,0,0,0,1,2,2
+Spring,0,0,0,0,1,1,1
+iPhone Fans and Users,1,1,1,1,1,1,1
+Eco-Conscious,0,0,0,0,1,1,1
+LAMP,1,1,1,1,2,3,3
+Hardware Engineering,0,0,0,0,1,1,1
+Algorithms,0,0,0,0,0,1,1
+Front-end Development,0,0,0,0,1,1,4
+The Cloud,0,0,0,1,1,1,1
+Fixing,0,0,0,0,1,1,1
+Cocoa Programming Language,0,0,0,1,1,1,1
+3D Printing,0,0,0,0,7,7,8
+Open Source Frameworks,0,0,0,0,1,1,1
+Windows Azure Platform,0,0,0,0,1,1,1
+MEAN Stack,0,0,0,0,0,0,1
+We Are Change,0,0,0,0,1,1,1
+Advanced algorithms data structures design pattern,0,0,0,1,1,1,1
+Website Design,0,0,0,0,1,1,1
+Apple Watch,0,0,0,0,0,0,1
+iOS Development,0,0,0,2,8,14,16
+Data Visualization,0,0,0,3,12,15,17
+Graphical User Interfaces,0,0,0,0,0,1,1
+Multi-Rotor Aircraft,0,0,0,0,0,1,1
+Asterisk,0,0,0,0,1,1,1
+Robots,0,0,0,0,2,2,4
+Lisp & Scheme,0,0,0,0,0,1,1
+d3.js,0,0,0,0,1,1,1
+Openflow,0,0,0,0,0,1,1
+Raspberry Pi,0,0,0,0,2,4,5
+Computer Science,0,0,0,0,4,4,4
+Lego NXT Robots,0,0,0,0,1,1,1
+mobile application development,0,0,0,0,0,1,1
+e-Learning,1,1,1,1,2,2,3
+Embedded Systems,0,0,0,0,3,5,6
+Google adWords,0,0,0,0,1,1,1
+Blogging to Promote Yourself,0,0,0,0,0,1,1
+Text Mining,0,0,0,1,1,1,1
+Wordpress Help,0,0,0,0,1,1,1
+Sitecore CMS,0,0,0,0,0,1,1
+Lean Six Sigma,0,0,0,0,1,1,1
+Drupal,0,2,2,2,3,3,3
+Design Thinking,0,0,0,0,2,2,2
+Joomla Mastering,0,0,0,0,1,1,1
+Industrial Internet of Things,0,0,0,0,0,0,1
+Grails,0,0,0,0,1,1,1
+RC Helicopters: Remote Controlled Helis,0,0,0,0,1,1,1
+PMP Exam Prep,0,0,0,0,1,1,1
+Apache Sqoop,0,0,1,1,1,1,1
+Getting started with Python,0,0,0,0,2,2,2
+Applied Statistics,0,0,0,1,3,3,3
+Data Mining,0,0,0,4,12,15,16
+Oracle Business Solutions,0,0,0,0,0,0,1
+Oracle Database Administration,0,0,0,0,0,0,1
+Groovy Programming Language,0,0,0,0,1,1,1
+Web Technology,0,1,5,7,28,34,37
+apache mesos,0,0,0,0,0,1,1
+Python/Linux devop,0,0,0,0,1,1,1
+Microsoft Technologies,0,0,0,0,1,1,1
+Venture Capital and Startup,0,0,0,0,0,1,1
+SEO for Local Business,0,0,0,0,2,2,2
+Robotics,0,0,0,0,11,12,14
+Accessibility,0,0,0,0,1,1,1
+OrientDB,0,0,0,0,1,1,1
+Lego Robotics,0,0,0,0,1,1,1
+Trading,0,0,0,0,0,1,1
+WEB SHOW,0,0,0,0,1,1,1
+Learning,0,0,0,0,1,1,2
+Hack,0,0,0,1,1,1,1
+Cloud Computing Strategies and Roadmaps,0,0,0,0,1,1,1
+Hybrid Apps,0,0,0,0,0,0,1
+Electronics as a Hobby,0,0,0,0,0,1,1
+Soft Skills & Behavioral Skills,0,0,0,0,0,1,1
+Data Management,0,0,0,2,6,7,7
+Human Rights,0,0,0,0,1,1,1
+Small Business Marketing Strategy,0,1,1,1,1,2,2
+Java,0,0,2,3,10,10,11
+Apache Lucene,0,0,0,1,1,1,1
+Scala,0,0,1,2,3,5,5
+React Native,0,0,0,0,0,0,1
+Struts,0,0,0,0,1,1,1
+Excel,0,0,0,0,2,2,2
+Content Writers Hyderabad,1,1,1,1,1,1,1
+Apache CloudStack,0,0,1,1,1,1,1
+Haskell,0,0,0,0,0,1,1
+AWS Programming and Tools,0,0,0,1,1,2,2
+To promote R for big data analytics,0,0,0,0,1,1,1
+Online Education & Technology For Educators and HR,0,0,0,0,1,1,1
+Become a Trainer,0,0,0,0,1,1,1
+Scaling Scrum,0,0,0,0,0,0,1
+Technology Professionals,0,0,0,1,3,3,4
+Wordpress Plugins,0,0,0,0,1,2,3
+Pattern Recognition,0,0,0,1,1,1,1
+Recruitment,0,0,0,0,0,1,1
+Reporting,0,0,0,0,1,1,1
+DevOps,0,0,0,1,4,7,9
+Software Development Process,0,0,0,0,1,1,1
+Social CRM,0,0,0,0,0,1,1
+Oculus Rift,0,0,0,0,1,1,1
+MicroStrategy Dashboards,0,0,0,0,1,1,1
+greedy algorithms,0,0,0,0,0,1,1
+Continuous Delivery,0,0,0,0,2,4,4
+Food Blogging,0,0,0,0,0,1,1
+Sensors,0,0,0,0,1,1,1
+Ruby,0,0,0,0,1,2,2
+All things Telecom,0,0,0,0,1,1,1
+PHP CMS,0,0,0,0,0,2,2
+Enterprise Search,0,0,0,1,1,1,1
+Liferay Theme Development,0,0,0,0,1,1,1
+WebSocket,0,0,1,1,1,1,1
+Content Strategy,0,0,0,0,1,1,1
+Elixir Programming,0,0,0,0,0,0,1
+SQL,0,0,0,0,2,3,3
+PaaS (Platform as a Service),0,0,0,1,5,6,6
+heapsort algorithms,0,0,0,0,0,1,1
+Wordpress Customization,0,0,0,0,1,2,3
+Professional Blogging,0,0,0,0,0,1,1
+Microsoft PowerPoint,0,0,0,0,1,1,1
+User Acquisition,0,0,0,0,0,1,1
+Clojure,0,0,0,0,0,1,1
+Microsoft,0,0,0,0,2,2,2
+Radio Control Flying,0,0,0,0,0,1,1
+Hyderabad,1,1,3,4,4,5,5
+Healthcare Big Data,0,0,0,0,1,1,1
+Dynamic Programming,0,0,0,0,0,1,1
+SAP HANA Technology,0,0,0,0,1,2,2
+Basics of iPhone app Development,1,1,1,1,1,1,1
+IT Architecture,0,0,0,0,1,1,1
+Business Strategy,0,0,0,0,1,3,3
+Apple computers,0,0,0,0,1,1,1
+Women Entrepreneurs,0,0,0,0,0,2,2
+Learning Erlang and OTP,0,0,0,0,1,1,2
+Machine-to-Machine,0,0,0,0,1,1,1
+IVR,0,0,0,0,1,1,1
+Website Development,0,0,0,0,1,1,1
+Learning Drupal,0,2,2,2,3,3,3
+PHP Application Development,0,0,0,0,2,3,3
+Executive Recruiters,0,0,0,0,0,1,1
+RedHat - OpenStack,0,0,0,0,1,1,1
+UX / UI Design,0,0,1,1,2,3,3
+User Research,0,0,0,0,1,1,2
+Salesforce.com and Force.com,0,0,0,0,2,2,2
+Environment,0,0,0,0,1,1,1
+Data Structures,0,0,0,0,0,1,1
+Data Center and Operations Automation,0,0,0,0,2,4,4
+Startup Incubation,0,0,0,0,1,1,1
+Content Marketing,0,0,0,0,1,1,1
+games-based learning,0,0,0,0,1,1,1
+Beginner Web Developer,0,0,0,0,0,0,1
+PMP,0,0,0,0,1,1,1
+Operations and Data Center Management,0,0,0,0,1,1,1
+Smart Grid,0,0,0,0,1,2,3
+Adobe CQ,0,0,0,0,1,2,2
+Technology Innovation,0,0,0,0,1,1,1
+Trainers in Hyderabad,0,0,0,0,1,1,1
+Modern Architecture and Design,0,0,0,0,1,1,1
+WordPress for Business,0,0,0,0,1,1,2
+Mobile Services,0,0,0,0,0,1,1
+Open Innovation,0,0,0,0,1,1,1
+Community Building,1,1,1,1,1,1,1
+PMI,0,0,0,0,1,1,1
+Web Development,0,2,7,10,42,53,56
+MySQL Replication,0,0,0,0,1,2,2
+IoT,0,0,0,0,0,2,5
+Usability testing,0,0,0,0,1,1,1
+Andriod,0,0,0,0,1,1,1
+Volunteering,1,1,1,1,1,1,1
+AWS S3,0,0,0,1,1,1,1
+Web Operations,0,0,0,0,1,1,1
+Social Media for Social Change,0,0,0,0,1,1,1
+Lean Management,0,0,0,0,1,1,1
+Software Defined Networking,0,0,0,0,0,1,1
+Magento Designers,0,1,1,1,1,1,1
+VDI - Virtual Desktop Infrastructure,0,0,0,0,0,1,1
+Test Engineering Hardware,0,0,0,0,1,1,1
+SAP Logistics Professionals,0,0,0,0,2,2,2
+Salesforce.com Chatter,0,0,0,0,1,1,1
+Cloud Storage,0,0,0,0,1,1,1
+Open Source Hardware,0,0,0,0,2,4,5
+Content Strategy and SEO,0,0,0,0,3,3,3
+Perl,0,0,0,0,0,1,1
+Excel PowerPivot,0,0,0,0,1,1,1
+RC Planes: Remote Controlled,0,0,0,0,1,1,1
+JavaScript Applications,0,0,0,1,3,4,4
+SQL Server 2012,0,0,0,0,1,1,1
+Video Editing,0,0,0,0,0,1,1
+Smarter Cities,0,0,0,0,0,0,1
+Heroku,0,0,0,0,1,1,1
+scrum alliance,0,0,0,0,0,1,2
+information Retrieval,0,0,0,1,1,1,1
+Engineering,0,0,0,0,2,2,2
+GIS Web Developers,0,0,0,0,0,0,1
+Business Architecture,0,0,0,0,1,1,1
+Drones,0,0,0,0,1,1,1
+IP Telephony,0,0,0,0,1,1,1
+Graph Databases,0,0,0,1,1,2,2
+Solutions powered by SAP HANA,0,0,0,0,1,2,2
+Desktop Virtualization,0,0,0,0,0,1,1
+Courses and Workshops,0,0,0,0,1,1,1
+ERP Software,0,0,0,0,2,2,2
+Text Analytics,0,0,0,1,1,1,1
+Apex,0,0,0,0,2,2,2
+Beginner iOS Developers,0,0,0,1,1,1,1
+Go programming language,0,0,0,0,1,1,1
+.NET,0,0,0,0,3,3,3
+SAP Enterprise Solutions,0,0,0,0,2,3,3
+MSP,0,0,0,0,1,1,1
+golang,0,0,0,0,1,1,1
+Underscore.js,0,0,0,1,1,1,1
+Distributed Version Control System,0,0,0,0,1,1,1
+General Aviation,0,0,0,0,0,1,1
+Electronics,0,0,0,0,9,12,14
+Content Management,0,0,0,0,0,2,2
+document databases,0,0,0,1,1,2,2
+Android Development,1,1,2,2,10,19,22
+TED Conference Discussion Group,0,0,0,0,1,1,1
+jcr,0,0,0,0,0,1,1
+Private Cloud,0,0,0,0,1,1,1
+Product management in agile,0,0,0,0,0,0,1
+Learn Blogging,0,0,0,0,0,1,1
+Scalability,0,0,0,0,1,1,1
+Innovations in Software Testing,0,0,0,0,1,1,1
+Mac,0,0,0,0,1,1,1
+Growth,0,0,0,0,0,1,1
+Infrastructure as Code,0,0,0,0,2,4,4
+Data Analysis and Modeling,0,0,0,1,2,2,2
+DIY Technology,0,0,0,0,4,4,5
+Joomla Users,0,0,0,0,1,1,1
+Siebel,0,0,0,0,0,1,1
+Phalcon PHP,0,0,0,0,1,1,1
+Explore: Agile Scrum XP Lean Kanban,0,0,0,0,0,1,1
+Laravel,0,0,0,0,1,1,1
+Scrum Master,0,0,0,0,0,1,2
+Information & knowledge-based business processes.,0,0,0,0,1,1,1
+Web Performance,0,0,0,0,2,2,2
+ESP8266,0,0,0,0,0,0,1
+Outdoor Leadership,0,0,0,0,1,1,1
+PHP Study Group,0,0,0,0,1,1,1
+Cloud Security,0,0,0,0,1,1,1
+Business Conference,0,0,0,0,1,1,1
+Joomla Extension Development,0,0,0,0,1,1,1
+Force.com,0,0,1,1,3,4,4
+Business Analytics,0,0,0,0,8,9,9
+OTP,0,0,0,0,0,0,1
+Adobe AEM,0,0,0,0,1,2,2
+Screenwriting,0,0,0,0,1,1,1
+Telematics,0,0,0,0,1,1,1
+Erlang Training,0,0,0,0,1,1,1
+Mobile Web Services,0,0,0,0,0,1,1
+PostgreSQL,0,0,0,1,2,3,3
+Critical Thinking,0,0,0,0,1,1,1
+WordPress User Community,0,0,0,0,1,1,1
+experiential learning,0,0,0,0,1,1,1
+Drupal Theming,0,0,0,0,1,1,1
+VMware Certified Professionals,0,0,0,0,0,1,1
+Southeastern Conference,0,0,0,0,1,1,1
+Service-now.com,0,0,0,0,1,1,1
+Virtualization,0,0,1,2,6,10,10
+"HTML, XHTML, CSS & JavaScript",0,0,1,1,2,2,2
+.NET Content Management Systems,0,0,0,0,0,1,1
+Virtual Reality,0,0,0,0,1,1,1
+Artificial Intelligence,0,0,0,2,6,6,6
